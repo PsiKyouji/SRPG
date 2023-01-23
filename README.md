@@ -9,7 +9,7 @@ The following terms of use and disclaimer apply to all files distributed by me (
 ■Terms of use
 Usage in anything other than SRPG Studio is prohibited
 Follow SRPG Studio rules (http://srpgstudio.com/guide/rules.html)
-Modifiable, redistributable, reprintable, credit not required
+Modifiable, redistributable, reprintable. Credit is not required.
 Paid distribution of plug-ins (including modified ones) is prohibited.
 
 ■ Disclaimer
